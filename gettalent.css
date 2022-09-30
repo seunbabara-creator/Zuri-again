@@ -1,0 +1,335 @@
+#menucontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-top: 0;
+}
+#talentlogo{
+    margin: 22px;
+    margin-left: 95px;
+}
+#talentmenu{
+    font-size: 20px;
+    font-family: serif;
+    color:#514949;
+    margin-right: 70px;
+    margin-top: 18px;
+    padding: 0;
+    margin-left: 500px;
+}
+ul{
+    list-style-type: none;
+    display: inline-flex;
+    padding: 0;
+    margin-top: 0;
+}
+li{
+    margin-top: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.active{
+    text-decoration: underline;
+    text-decoration-color: #df2c23;
+}
+a{
+    color: #6b5e5e;
+    text-decoration: none;
+    text-decoration-color: #df2c23;
+}
+#thbutton{
+    padding: 8px;
+    background-color: #df2c23;
+    border-bottom-right-radius: 15px;
+    color: white;
+    font-size: 18px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 60px;
+    width: 13%;
+}
+#headertext{
+    display: flex;
+    flex-direction: row;
+    margin: 25px;
+    position: relative;
+    top: 95;
+    justify-content: space-between;
+}
+#ht1{
+    margin-top: 10%;
+}
+#ht2{
+    margin-top: 8%;
+    margin: auto;
+}
+#hboy{
+    width: 480px;
+    height: 500px;
+    margin: auto;
+    margin-top: 35px;
+}
+#vet{
+    font-size: 42px;
+    font-weight: 700;
+    font-family: serif; 
+    color: #2b2828;
+    margin-bottom: 0;
+    margin-left: 45px;
+}
+#ht1p{
+    font-size: 22px;
+    color:#514949;
+    margin-left: 45px;
+}
+#ht1rope{
+    width: 100px;
+    margin-left: 68%;
+}
+#subbuttons{
+    display: flex;
+    flex-direction: row;
+    margin-left: 45px;
+}
+.redb{
+    padding: 20px;
+    background-color: #df2c23;
+    border-bottom-right-radius: 15px;
+    color: white;
+    font-size: 18px;
+    border: none;
+    margin: 20px;
+}
+.ashb{
+    padding: 20px;
+    background-color:#514949;
+    border-bottom-right-radius: 15px;
+    color: white;
+    font-size: 18px;
+    border: none;
+    margin: 20px;
+}
+#mcover{
+    display: flex;
+    flex-direction: row;
+    margin-top: 105px;
+    background-image: url("../Clone images/bgsection2.063bd869082548bafa74.png");
+    padding: 40px;
+    justify-content: space-between;
+}
+#mcone{
+    font-size: 42px;
+    font-weight: 700;
+    font-family: serif; 
+    color: #2b2828;
+    margin: 25px;
+}
+#mainicon1{
+    vertical-align: auto;
+}
+#circleppl{
+    width: 500px;
+    height: 500px;
+    margin:auto;
+}
+#naku{
+    font-size: 22px;
+    color:#2b2828;
+    margin:25px;
+}
+#mc1{
+    font-size: 22px;
+    color:#6b5e5e;
+    margin:25px;
+}
+#bodyicons{
+    display: flex;
+    flex-direction:row;
+    padding: 10px;
+    margin:40px ;
+}
+#GER{
+    margin: 8px;
+}
+#ENG{
+    margin: 8px;
+}
+#india{
+    margin: 8px;
+}
+#NIG{
+    margin: 8px;
+}
+#USA{
+    margin: 8px;
+}
+#mcover2{
+    margin: 25px;
+}
+#mcw2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 25px;
+}
+#mch1{
+    font-size: 42px;
+    font-weight: 700;
+    font-family: serif; 
+    color: #2b2828;
+    margin: 25px;
+}
+.whtbtn{
+    color:#6b5e5e;
+    background-color: white;
+    border-radius: 9px;
+    margin:30px;
+    box-shadow: 0 11px 22px #d6d5d5;
+    font-size: 18px;
+    border: none;
+    padding: 18px;
+}
+#rope2{
+    vertical-align: auto;
+    width: 300px;
+    height: 70px;
+}
+#work{
+    font-size: 42px;
+    font-weight: 700;
+    font-family: serif; 
+    color: #2b2828;
+    margin: 25px;
+}
+#mcw31{
+    margin-left: 25px;
+}
+#mcw32{
+    margin-left: 25px;
+}
+#mcover4{
+    background-color: rgb(255, 248, 229); 
+    padding: 40px;
+    margin: 20px;
+}
+#cone{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: serif; 
+    color: #2b2828;
+    margin: 20px;
+}
+#cawsub{
+    display: flex;
+    flex-direction: row;
+    margin: 25px;
+}
+.caw1{
+    background-color: white;
+    border-bottom-right-radius: 20px;
+    padding: 25px;
+    margin: 25px;
+}
+.caw1:hover{
+    background-color: black;
+    color: white;
+}
+#cthree{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+#ctfour{
+    margin: auto;
+}
+#ftn1{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin: 25px;
+    background-color:#2b2828;
+    margin-bottom: 0;
+    padding: 30px;
+}
+#ftn2{
+    justify-content: space-between;
+    margin: 25px;
+    color: white;
+    font-size: 15px;
+    background-color:#2b2828;
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    font-family: serif;
+    padding: 30px;
+}
+@media only screen and (max-width:768px){
+    #menucontainer{
+        justify-content: space-between;
+    }
+    #talentlogo{
+        margin-left: 0;
+    }
+    #talentmenu{
+        display: none;
+    }
+    #headertext{
+        flex-direction: column;
+        margin: auto;
+    }
+    #thbutton{
+        margin-right: 30px;
+        width: 35%;
+    }
+    #mcover{
+        flex-direction: column;
+    }
+    #cawsub{
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+    }
+    #cthree{
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+    }
+    #circleppl{
+        width: 300px;
+        height: 300px;
+        margin: auto;
+    }
+    #hboy{
+        width: 300px;
+        height: 300px;
+    }
+    .cw1{
+        width: 95%;
+    }
+    .whtbtn{
+        margin: 5px;
+    }
+    #GER{
+        margin: 0;
+    }
+    #india{
+        margin:0;
+    }
+    #ENG{
+        margin: 0;
+    }
+    #NIG{
+        margin:0;
+    }
+    #USA{
+        margin: 0;
+    }
+    #bodyicons{
+        margin-left: 9px;
+    }
+    #mcw2{
+        width: 100%;
+        display:grid;
+        grid-template-columns: auto, auto, auto;
+        margin: auto;
+    }
+}
